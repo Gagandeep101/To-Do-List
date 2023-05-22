@@ -28,3 +28,7 @@ task_area.addEventListener('click', (e)=>{
         
     }
 })
+function savedata(){
+    localStorage.setItem("data",task_area.innerHTML);
+}
+task_area.innerHTML=localStorage.getItem("data");
