@@ -13,12 +13,12 @@ Simple To Do List is created using html , css and javascript . For demo [click h
 
 ### Gif to show To Do List working
 1. Add a task in To Do List
-![To Do List (2)](https://github.com/Gagandeep101/To-Do-List/assets/112372818/54611678-2163-4888-8649-bfbe6747e35a)
+![to do list](https://github.com/Gagandeep101/To-Do-List/assets/112372818/e2133a21-3132-4dc9-b1ae-2328859af08b)
 
 
 2. Check Task when completed from group of task
-![check_task](https://github.com/Gagandeep101/To-Do-List/assets/112372818/1e2db896-74c6-4f2b-b5ac-80579148a688)
+![check_task](https://github.com/Gagandeep101/To-Do-List/assets/112372818/d28f25b8-cb4e-44ca-98b6-9a5aeb00f04e)
 
 
 3. Remove task from group of task
-![remove task](https://github.com/Gagandeep101/To-Do-List/assets/112372818/8cc99a00-0c15-48b7-98c5-d22d6f066615)
+![remove task](https://github.com/Gagandeep101/To-Do-List/assets/112372818/0be53b88-7f1a-4a83-a929-bbdeee9b2ad1)
