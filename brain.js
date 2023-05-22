@@ -17,3 +17,14 @@ function addtask() {
     input_task.value="";
     savedata();
 }
+task_area.addEventListener('click', (e)=>{
+    if (e.target.tagName==="SPAN"){
+        e.target.parentElement.remove();
+        savedata();
+    }
+    else if (e.target.tagName==="LI"){
+        e.target.classList.toggle("checked");
+        savedata();
+        
+    }
+})
