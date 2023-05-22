@@ -90,3 +90,12 @@
     background-size: cover;
     border-radius: 50%;
   }
+  .task_shown_area li.checked {
+    text-decoration-line: line-through;
+    text-decoration-color: rgb(1 154 1);
+  }
+  .task_shown_area li.checked::before {
+    cursor: pointer;
+    background-image: url(/images/checked_box.png);
+  }
+  
