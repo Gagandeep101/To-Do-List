@@ -33,4 +33,28 @@
     height: 35px;
     width: 35px;
   }
-    
+  #input_task {
+    background: rgba(255, 255, 255, 0.418);
+    border-radius: 25px;
+    outline: none;
+    border: 2px solid rgb(1 154 1);
+    color: rgb(1 154 1);
+    padding: 10px;
+    font-size: 20px;
+    width: 40vw;
+  }
+  #add_task {
+    cursor: pointer;
+    background-color: rgb(1 154 1);
+    color: white;
+    outline: none;
+    border: none;
+    padding: 11.5px;
+    position: relative;
+    left: -50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+    font-size: 20px;
+  }
+  
