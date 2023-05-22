@@ -120,7 +120,7 @@
       width: 25px;
     }
     .main_area {
-      height: 65vh;
+      height: 70vh;
       border: 2px solid rgb(1 154 1);
       border-radius: 13px;
       margin-top: 10px;
@@ -132,7 +132,7 @@
     }
     #input_task {
       font-size: 15px;
-      width: 30vw;
+      width: 40vw;
       padding: 3.5px;
     }
     #add_task {
