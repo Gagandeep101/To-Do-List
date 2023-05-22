@@ -98,4 +98,12 @@
     cursor: pointer;
     background-image: url(/images/checked_box.png);
   }
-  
+  span {
+    cursor: pointer;
+    padding-right: 40px;
+    float: right;
+    font-weight: bolder;
+    height: 20px;
+    width: 20px;
+    color: rgb(1 154 1);
+  }
